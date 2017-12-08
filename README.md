@@ -2,7 +2,7 @@
 # Yoda Wallpaper
 
 A minimal Yoda-themed wallpaper.
-Wallpapers ready to go in PNG format can be found in `wallpapers` (only have jpg's made right now).
+Wallpapers ready to go in JPG format can be found in `wallpapers` (only have jpg's made right now).
 
 ## How to Use
 The main file here is the `yoda-wallpp.xcf`.
@@ -13,7 +13,7 @@ To create a wallpaper from using this project, it's easy:
 1) Clone the repo.
 2) Open the `yoda-wallpp.xcf` file in GIMP.
 3) Use the layers to hide / show what you don't want / do want.
-4) Export the image to a PNG (or whatever format you chose) and set as your wallpaper!
+4) Export the image to whatever format you chose and set as your wallpaper!
 
 ## License
 I do not feel a need to attach a LICENSE to this project (I may in the future.)
