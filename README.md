@@ -2,7 +2,11 @@
 # Yoda Wallpaper
 
 A minimal Yoda-themed wallpaper.
-Wallpapers ready to go in JPG format can be found in `wallpapers` (only have jpg's made right now).
+
+### Finished Wallpapers
+Wallpapers ready to go in JPG format can be found in `wallpapers`.
+They follow this naming format: `ywpp-[sil#]-[quote].jpg`
+In other words, they all start with 'ywpp' (short for Yoda wallpaper), indicate which silhouette is in the corner (sil#), and indicate which quote is shown in the top right (quote).
 
 ## How to Use
 The main file here is the `yoda-wallpp.xcf`.
