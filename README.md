@@ -6,7 +6,9 @@ A minimal Yoda-themed wallpaper project.
 ### Finished Wallpapers
 Wallpapers ready to go in JPG format can be found in `wallpapers`.
 They follow this naming format:
-```ywpp-[sil#]-[quote].jpg```
+```
+ywpp-[sil#]-[quote].jpg
+```
 In other words, they all start with 'ywpp' (short for Yoda wallpaper), indicate which silhouette is in the corner (sil#), and indicate which quote is shown in the top right (quote).
 
 ## How to Use
